@@ -60,7 +60,7 @@ I collaborated with three teammates to integrate the system's analytical feature
 
 ## Project Context
 
-**Course:** BIT 3424, Introduction to Business Analytics Modeling, Virginia Tech  
+**Course:** BIT 3424, Business Analytics Modeling, Virginia Tech  
 **Completed:** Spring 2026  
 **Project Type:** Four-person academic team project
 
