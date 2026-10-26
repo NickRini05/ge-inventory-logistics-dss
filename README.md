@@ -91,9 +91,17 @@ The inventory dashboard tracks product availability, customer orders, shipping a
 
 Microsoft Excel with VBA support is required. The Excel Solver add-in may also be needed to rerun optimization models.
 
+## VBA Source Code
+
+The `vba-source` folder contains the VBA source files for the Customer Order UserForm, which I developed as part of this team project.
+
+The form handles customer order entry, product selection, input validation, and integration with the workbook's inventory data.
+
+The complete Excel/VBA application is available in `GE_Inventory_Logistics_DSS.xlsm`.
+
 ## My Contributions
 
-My primary responsibilities included developing transportation and transshipment modeling components and implementing workbook navigation functionality using VBA.
+My primary responsibilities included developing the transportation and transshipment models in Excel and implementing VBA functionality for the workbook's navigation and customer ordering interfaces. I developed the Customer Order UserForm, programming product selection, quantity controls, customer information entry, input validation, and order processing integrated with the workbook's inventory data.
 
 I collaborated with three teammates to integrate the system's analytical features into a unified decision support application. Our team presented the completed project to a Deloitte Senior Consultant for feedback and evaluation.
 
