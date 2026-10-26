@@ -8,6 +8,45 @@ Developed as a four-person academic team project at Virginia Tech, this system c
 
 The objective was to help users evaluate product demand, allocate inventory, plan warehouse shipments, and assess associated costs.
 
+
+## Project Screenshots
+
+### 1. Application Welcome Screen
+
+The system provides separate customer and manager interfaces, with VBA-driven navigation to its operational and analytical features.
+
+![GE DSS Welcome Screen](screenshots/welcome-screen.png)
+
+### 2. Customer Order Interface
+
+An interactive VBA UserForm allows customers to select products, specify quantities, and choose pickup locations.
+
+![Customer Order Form](screenshots/customer-order-form.png)
+
+### 3. Demand Forecasting
+
+The forecasting component compares linear, exponential, and polynomial models using absolute prediction errors to identify the best-performing method.
+
+![Demand Forecasting](screenshots/demand-forecasting.png)
+
+### 4. Transportation Optimization
+
+The shipping model allocates inventory across four warehouses and six store locations, accounting for demand, available supply, and transportation costs.
+
+![Shipping Optimization](screenshots/shipping-model.png)
+
+### 5. Delivery Vehicle Assignment
+
+The vehicle assignment model evaluates semi-trucks, step vans, and cutaway vans using delivery requirements, vehicle capacities, assignment costs, and travel times.
+
+![Vehicle Assignment](screenshots/assignment-model.png)
+
+### 6. Inventory and Financial Analysis
+
+The inventory dashboard tracks product availability, customer orders, shipping allocations, revenue, and profitability.
+
+![Inventory and Financial Analysis](screenshots/model-sheet.png)
+
 ## Features
 
 ### Demand Forecasting
